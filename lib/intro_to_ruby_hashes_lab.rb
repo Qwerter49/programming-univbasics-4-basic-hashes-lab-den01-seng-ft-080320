@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {my_car: civic}
+  {my_car: "civic"}
 end
 
 def pioneer
